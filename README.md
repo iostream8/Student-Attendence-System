@@ -27,6 +27,7 @@ It detects and recognizes faces in **real-time** using a webcam and marks attend
 ---
 
 ## 📂 Project Structure
+
 FaceRecognitionAttendanceSystem/
 │── Photos/ # Folder containing known faces
 │ ├── Bill.png
